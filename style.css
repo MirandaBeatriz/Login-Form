@@ -13,7 +13,6 @@
 body{
     background:linear-gradient(50deg, #260224, #390440, #500859);
     background-repeat: no-repeat;
-    min-width: 100vh;
     min-height: 100vh;
     display: flex;
     align-items: center;
